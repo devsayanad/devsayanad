@@ -66,18 +66,6 @@ I enjoy learning by building projects and turning ideas into practical solutions
 
 ---
 
-## 🚀 Currently Learning
-
-* Node.js & Express.js
-* MongoDB & MySQL
-* REST APIs
-* Authentication & Authorization
-* Cloud Computing
-* Cybersecurity
-* Artificial Intelligence
-
----
-
 ## 🎯 Goals
 
 * Become a **Software Developer and AI Developer**
