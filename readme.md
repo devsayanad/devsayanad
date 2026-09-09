@@ -58,6 +58,7 @@ I enjoy learning by building projects and turning ideas into practical solutions
   <img src="https://skillicons.dev/icons?i=git" width="50"/>
   <img src="https://skillicons.dev/icons?i=github" width="50"/>
   <img src="https://skillicons.dev/icons?i=linux" width="50"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
 </p>
 
@@ -77,33 +78,13 @@ I enjoy learning by building projects and turning ideas into practical solutions
 
 ## 🎯 Goals
 
-* Become a **Software Developer**
+* Become a **Software Developer and AI Developer**
 * Build practical and scalable applications
-* Explore **AI, Cybersecurity & Cloud Computing**
+* Exploring **Website Development, Mobile Application Development, AI, Cybersecurity & Cloud Computing**
 * Become an **IT & AI Consultant**
 * Build and lead technology-driven products
 
 ---
-
-## 📈 My Journey
-
-```text
-Programming
-     ↓
-Web Development
-     ↓
-Frontend
-     ↓
-Backend
-     ↓
-Databases & APIs
-     ↓
-Cloud Computing
-     ↓
-AI & Cybersecurity
-     ↓
-Real-World Products 🚀
-```
 
 ---
 
