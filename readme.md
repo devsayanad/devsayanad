@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | 🤖 AI Enthusiast | ☁️ Cloud Explorer
 
-I'm an IT student passionate about **software development, artificial intelligence, cybersecurity, and cloud computing**.
+I'm an IT Professional passionate about **software development, artificial intelligence, cybersecurity, and cloud computing**.
 
 I enjoy learning by building projects and turning ideas into practical solutions.
 
