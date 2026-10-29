@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | 🤖 AI Enthusiast | ☁️ Cloud Explorer
 
-I'm an IT Professional passionate about **software development, artificial intelligence, cybersecurity, and cloud computing**.
+I'm an IT student passionate about **software development, artificial intelligence, cybersecurity, and cloud computing**.
 
 I enjoy learning by building projects and turning ideas into practical solutions.
 
@@ -34,6 +34,7 @@ I enjoy learning by building projects and turning ideas into practical solutions
   <img src="https://skillicons.dev/icons?i=html" width="50"/>
   <img src="https://skillicons.dev/icons?i=css" width="50"/>
   <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
 
